@@ -1,0 +1,17 @@
+{
+  "productName1": "Printed",
+  "productName2": "Blouse",
+  "productColorBlue": 
+    {
+      "name": "Blue",
+      "hex": "5D9CEC",
+      "rgb": "rgb(93, 156, 236)"
+    }
+  ,
+  "productColorWhite": 
+    {
+      "name": "White",
+      "hex": "xx",
+      "rgb": "rgb(255, 255, 255)"
+    }
+}
